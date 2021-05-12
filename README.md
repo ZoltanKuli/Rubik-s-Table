@@ -1,6 +1,6 @@
 # The Story Rubik's Table
 
-I made Rubik's Table for my Software Technology class during the fall of 2020.
+I made Rubik's Table for my Programming Technology class during the fall of 2020.
 
 This project was interesting for two reasons.
 
