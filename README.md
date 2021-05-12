@@ -1,4 +1,4 @@
-# The Story Rubik's Table
+# The Story Behind Rubik's Table
 
 I made Rubik's Table for my Programming Technology class during the fall of 2020.
 
