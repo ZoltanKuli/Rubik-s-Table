@@ -20,4 +20,5 @@ My goal was to create my first Java Swing app and use Launch4J to bundle it into
 * Java
 * Java Swing
 * FlatLaf
+* IntelliJ IDEA
 * Launch4J
