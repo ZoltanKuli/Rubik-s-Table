@@ -17,3 +17,5 @@ My goal was to create my first Java Swing app and use Launch4J to bundle it into
 # Technologies Used
 * Java
 * Java Swing
+* FlatLaf
+* Launch4J
