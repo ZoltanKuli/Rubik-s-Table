@@ -1,5 +1,7 @@
 # Rubik's Table
-I made Rubik's Table during the fall of 2020 for my Programming Technology class. You can beat the game by aligning each color horizontally or vertically.
+I made Rubik's Table during the fall of 2020 for my Programming Technology class.
+
+The purpose of this app to align each color horizontally or vertically.
 
 My goal was to create my first Java Swing app and use Launch4J to bundle it into a .exe file.
 
