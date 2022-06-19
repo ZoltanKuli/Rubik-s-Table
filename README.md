@@ -12,13 +12,12 @@ My goal was to create my first Java Swing app and use Launch4J to bundle it into
 |<img width="1604" alt="Rubik's Table Screenshot" src="images/game_05.jpg">  |  <img width="1604" alt="Rubik's Table Screenshot" src="images/game_06.jpg">|
 |<img width="1604" alt="Rubik's Table Screenshot" src="images/game_07.jpg">  |  <img width="1604" alt="Rubik's Table Screenshot" src="images/game_08.jpg">|
 
-# Skills Demonstrated
+# Highlights
 * Built a simple game using Java Swing and implemented a system that solves it automatically.
-* Created a .exe file using Launch4J.
+* Created a .exe launcher for the game using Launch4J.
 
 # Technologies Used
 * Java
 * Java Swing
 * FlatLaf
-* IntelliJ IDEA
 * Launch4J
